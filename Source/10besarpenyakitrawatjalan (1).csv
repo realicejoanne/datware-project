@@ -1,0 +1,111 @@
+KODE PROPINSI,KAB/KOTA,KODE RS,Nama Rs,Bulan,Tahun,No. Urut,KODE ICD 10,Deskripsi,Kasus Baru menurut Jenis Kelamin LK,Kasus Baru menurut Jenis Kelamin PR,Jumlah Kasus Baru(4+5),Jumlah Kunjungan
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,1,P59.9,Hyperbilirubin,51,28,79,82
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,2,O32.1,Letak Sungsang,0,55,55,122
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,3,J06.9,ISPA,25,18,43,123
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,4,O34.2,Pengawasan Ibu Hamil dengan Riwayat SC,0,18,18,68
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,5,O41.0,Olygohidramnion,0,15,15,43
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,6,O32.2,Letak Lintang,0,14,14,30
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,7,O02.0,Blight ovum,0,14,14,24
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,8,O86.0,Infeksi Luka Sc,0,14,14,18
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,9,J18.0,Bronchopneumonia,8,5,13,49
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Februari,2015,10,A09,Gastroenteritis,10,3,13,37
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,1,J06.9,ISPA,35,41,76,145
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,2,P59.9,Hyperbilirubin,29,31,60,60
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,3,O32.1,Letak Sungsang,0,38,38,108
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,4,J18.0,BP,17,10,27,62
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,5,O41.0,Olygohidramnion,0,24,24,58
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,6,O32.2,Letak Lintang,0,23,23,45
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,7,A09,Gastroenteritis,16,7,23,34
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,8,O34.2,Bekas SC,0,22,22,74
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,9,A15,TB,4,10,14,81
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Maret,2015,10,O03.4,Ab. Incomplit dengan pendarahan,0,13,13,21
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,1,J06.9,ISPA,61,42,103,165
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,2,P59.9,Hyperbilirubin,40,32,72,79
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,3,O32.1,Kehamilan Letak Sungsang,0,37,37,105
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,4,A09,Gastroenteritis,23,11,34,38
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,5,O34.2,Pengawasan Kehamilan dengan riw. SC,0,29,29,96
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,6,O41.0,Olygohidramnion,0,25,25,56
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,7,J18.0,Bronchopneumonia,12,6,18,31
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,8,O44.1,Placenta Previa Totalis,0,14,14,36
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,9,O02.0,Blight Ovum,0,14,14,20
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,April,2015,10,O03.4,Ab.inkomplit,0,13,13,25
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,1,J06.9,ISPA,30,36,66,100
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,2,P59.9,Hyperbilirubin,27,23,50,50
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,3,O32.1,Kehamilan Letak sungsang,0,42,42,104
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,4,O32.2,Kehamilan Letak lintang,0,41,41,72
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,5,A09,GEA,13,13,26,35
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,6,O41.0,Oligohidramnion,0,26,26,69
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,7,O02.0,Blight ovum,0,17,17,34
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,8,O34.2,Pengawasan Kehamilan dengan riwayat SC,0,15,15,73
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,9,B34.9,Viral Infection,6,7,13,17
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Mei,2015,10,N83.2,Kista Ovarium,0,12,12,23
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,1,P59.9,Hyperbilirubin,49,19,68,68
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,2,J06.9,Infeksi Saluran Pernapasan Atas,35,24,59,89
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,3,A09,Gastroenteritis Akut,23,22,45,55
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,4,O41.0,Olygohidramnion,0,43,43,109
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,5,O32.1,Kehamilan Letak Sungsang,0,29,29,75
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,6,O34.2,Pengawasan Kehamilan dengan riwayat SC,0,25,25,89
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,7,B34.9,Viral Infection,8,16,24,28
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,8,O02.0,Blight Ovum,0,16,16,27
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,9,J02.9,Paringitis,13,2,15,15
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juni,2015,10,O44.0,Placenta Letak Rendah,0,15,15,39
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,1,J06.9,ISPA,32,34,66,103
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,2,P59.9,Hyperbilirubin,32,21,53,53
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,3,O32.1,Kehamilan Letak Sungsang,0,38,38,81
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,4,O41.0,Olygohidramnion,0,35,35,73
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,5,A09,Gastroenteritis Akut,16,13,29,33
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,6,O02.0,Blight ovum,0,23,23,36
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,7,O34.2,Pengawasan Kehamilan dengan riwayat SC,0,19,19,63
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,8,O32.2,Kehamilan Letak Lintang,0,16,16,51
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,9,O36.4,Intra Uterine Fetal Death,0,13,13,18
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Juli,2015,10,B34.9,Viral Infection,5,6,11,12
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,1,A09,Gastroenteritis Akut,40,39,79,96
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,2,J06.9,Infeksi Saluran Pernapasan Atas,37,21,58,87
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,3,O32.1,Kehamilan Letak Sungsang,0,43,43,105
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,4,P59.9,Hyperbilirubin,19,24,43,43
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,5,O41.0,Oligohidramnion,0,26,26,68
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,6,O02.0,Blight ovum,0,23,23,37
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,7,O34.2,Pengawasan Kehamilan dengan riwayat SC,0,21,21,64
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,8,O32.2,Kehamilan Letak Lintang,0,20,20,36
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,9,O20.0,Abortus Imminens,0,19,19,27
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Agustus,2015,10,G54.0,Hyper Reactive Bronchus,9,6,15,16
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,1,A09,Gastroenteritis Akut,37,17,54,67
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,2,J06.9,Infeksi Saluran Pernapasan Atas,25,22,47,67
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,3,P59.9,Hyperbilirubin,34,22,56,56
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,4,O41.0,Olygohidramnion,0,41,41,68
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,5,O32.1,Kehamilan Letak Sungsang,0,39,39,80
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,6,O34.2,Pengawasan Kehamilan dengan riw.SC,0,29,29,78
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,7,O44.1,Placenta previa Totalis,0,25,25,58
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,8,O32.2,Kehamilan Letak Lintang,0,22,22,44
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,9,O03.4,Ab.inkomplit,0,17,17,25
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,September,2015,10,O02.0,Blight ovum,0,16,16,30
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,1,P59.9,Hyperbilirubin,50,32,82,84
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,2,A09,Gastroenteritis Akut,35,28,63,72
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,3,J06.9,Infeksi Saluran Pernapasan Atas,22,28,50,75
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,4,O32.1,Kehamilan Letak Sungsang,0,30,30,86
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,5,O41.0,Olygohidramnion,0,29,29,82
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,6,B34.9,Viral Infection,14,13,27,30
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,7,O34.2,Pengawasan Kehamilan/Persalinan riwayat SC,0,25,25,70
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,8,O02.0,Blight ovum,0,21,21,40
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,9,N89.8,Flour Albus,0,11,11,20
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Oktober,2015,10,O32.2,Kehamilan Letak Lintang,0,11,11,26
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,1,J06.9,Infeksi Saluran Pernapasan Atas,44,20,64,83
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,2,P59.9,Hyperbilirubin,32,28,60,63
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,3,A09,Gastroenteritis Akut,23,20,43,66
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,4,O41.0,Olygohidramnion,0,30,30,59
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,5,O32.1,Kehamilan Letak Sungsang,0,25,25,82
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,6,O34.2,Pengawasan Kehamilan/Persalinan riwayat SC,0,21,21,65
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,7,O02.0,Blight ovum,0,21,21,30
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,8,B34.9,Viral Infection,12,9,21,22
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,9,O32.2,Kehamilan Letak Lintang,0,14,14,27
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,November,2015,10,G54.0,HRB,8,5,13,15
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,1,P59.9,Hyperbilirubin,44,40,64,92
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,2,J06.9,Infeksi Saluran Pernapasan Atas,30,22,60,92
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,3,A09,Gastroenteritis Akut,22,17,43,70
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,4,O32.1,Kehamilan Letak Sungsang,0,38,30,108
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,5,O34.2,Pengawasan kehamilan dengan riw.SC,0,29,25,93
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,6,O02.0,Blight ovum,0,27,21,39
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,7,O41.0,Olygohidramnion,0,19,21,69
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,8,O03.4,Abortus Incomplit,0,17,21,24
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,9,O44.0,Placenta letak rendah,0,16,14,48
+32prop,Kota Bandung,3273260,RSKIA Kota Bandung,Desember,2015,10,O32.2,Kehamilan Letak Lintang,0,14,13,37

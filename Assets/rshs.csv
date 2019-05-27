@@ -1,0 +1,101 @@
+﻿id_waktu,date,id_dokter,nama_dokter,id_kamar,jenis_kamar,id_pasien,nama_pasien,umur,jeniskelamin,tgl_lahir,alamat,id_transaksi,cara_bayar,id_diagnosis,nama_diagnosis
+1002,02-01-17,2017,Maman Natsir,4010,Intermediate Care-Isolasi,3075,Edward Astuti,48,Laki-laki,26-07-69,Jl Terusan Jakarta 109 B,7004,Kredit,6009,Stroke
+1003,23-01-17,2013,Sari Budiyanto,4010,Intermediate Care-Isolasi,3062,Ajeng Prabowo,40,Perempuan,25-05-77,Jl Sukarno Hatta 466,7003,Debit,6007,Anemia
+1004,29-01-17,2019,Tania Ramadan,4010,Intermediate Care-Isolasi,3070,Viktor Hutapea,24,Laki-laki,26-02-93,Jl Jend Gatot Subroto 289,7007,Prudential,6003,Gagal jantung
+1005,01-02-17,2012,Ikhsan Mardhiyah,4004,II,3018,Kemal Natsir,29,Laki-laki,30-05-88,Jl Wastukencana 4,7002,Tunai,6007,Anemia
+1006,16-02-17,2020,Nadine Marpaung,4011,Intensive Care,3036,Siti Widiastuti,29,Perempuan,30-07-88,Jl Laks L RE Martadinata 120,7005,BPJS,6007,Anemia
+1007,17-02-17,2004,Lala Sirait,4010,Intermediate Care-Isolasi,3069,Maria Handayani,19,Perempuan,13-01-98,Jl Dungus Cariang,7007,Prudential,6008,Tuberkulosis (TBC)
+1008,20-02-17,2014,Winda Najmudin,4002,SW,3059,Alambana Puspita,55,Perempuan,14-07-62,Jl Raya Situraja 180,7006,AXA Mandiri,6002,Diare dan muntaber
+1009,03-03-17,2003,Luthfi Setiawan,4002,SW,3002,Chelsea Maryati,19,Perempuan,17-08-98,Jl Wastukencana 4,7003,Debit,6005,Septisemia
+1010,09-03-17,2015,Jayeng Pratama,4005,I,3048,Juli Wijaya,33,Laki-laki,24-03-84,Jl Ranggamalela,7006,AXA Mandiri,6007,Anemia
+1011,01-04-17,2010,Vivi Hidayat,4008,Suite,3024,Dasa Nababan,36,Laki-laki,04-12-81,Jl Griya Raya 1,7007,Prudential,6008,Tuberkulosis (TBC)
+1012,11-04-17,2014,Winda Najmudin,4009,HCU-RIK,3032,Kayla Samosir,21,Perempuan,30-08-96,Jl Ir H Juanda 250,7006,AXA Mandiri,6003,Gagal jantung
+1013,11-04-17,2015,Jayeng Pratama,4009,HCU-RIK,3055,Jefri Sihombing,61,Laki-laki,16-11-56,Jl Gegerkalong Hilir 12,7005,BPJS,6003,Gagal jantung
+1014,20-04-17,2014,Winda Najmudin,4008,Suite,3025,Paris Saputra,57,Laki-laki,11-11-60,Jl Kopo 519,7007,Prudential,6003,Gagal jantung
+1015,20-04-17,2003,Luthfi Setiawan,4005,I,3061,Sabrina Novitasari,42,Perempuan,17-07-75,Jl Cijati RT 02/05,7004,Kredit,6005,Septisemia
+1016,05-05-17,2016,Anom Riyanti,4003,III,3067,Wahyu Farida,45,Laki-laki,08-03-72,Jl Jend A Yani 262 RT 02/02,7003,Debit,6002,Diare dan muntaber
+1017,18-06-17,2017,Maman Natsir,4005,I,3035,Nadia Farida,47,Perempuan,20-09-70,Jl Lodaya 20,7006,AXA Mandiri,6006,Gagal ginjal
+1018,22-06-17,2024,Asirwanda Wijayanti,4002,SW,3030,Indah Prayoga,21,Perempuan,27-12-96,Jl Dr Rum 7,7002,Tunai,6009,Stroke
+1019,07-07-17,2019,Tania Ramadan,4011,Intensive Care,3038,Mursita Nugroho,32,Perempuan,25-06-85,Jl Lengkong Kecil 28,7003,Debit,6009,Stroke
+1020,19-08-17,2021,Aris Palastri,4010,Intermediate Care-Isolasi,3015,Damu Halimah,37,Perempuan,20-06-80,Jl Wastukencana 15,7004,Kredit,6003,Gagal jantung
+1021,26-08-17,2008,Kawaca Sihombing,4002,SW,3021,Jasmin Andriani,40,Perempuan,29-10-77,Jl Wastukencana 15,7005,BPJS,6006,Gagal ginjal
+1022,01-09-17,2016,Anom Riyanti,4002,SW,3091,Zulaikha Saptono,44,Perempuan,08-07-73,Jl Abd Rahman 121,7005,BPJS,6008,Tuberkulosis (TBC)
+1023,10-09-17,2002,Gaman Rahayu,4005,I,3029,Lembah Andriani,15,Perempuan,27-10-02,Jl Dano Lama 33,7003,Debit,6002,Diare dan muntaber
+1024,12-09-17,2010,Vivi Hidayat,4005,I,3060,Adiarja Maryadi,17,Laki-laki,09-04-00,Jl Sukajadi 141,7007,Prudential,6008,Tuberkulosis (TBC)
+1025,13-09-17,2008,Kawaca Sihombing,4010,Intermediate Care-Isolasi,3014,Martana Zulkarnain,57,Perempuan,08-05-60,Jl Jend A Yani 269 Pav,7006,AXA Mandiri,6002,Diare dan muntaber
+1026,07-10-17,2005,Lukita Maryati,4004,II,3082,Ibrani Budiman,43,Laki-laki,13-03-74,Jl Lengkong Kecil 28,7006,AXA Mandiri,6002,Diare dan muntaber
+1027,18-10-17,2013,Sari Budiyanto,4005,I,3071,Mila Wacana,52,Perempuan,12-05-65,Jl Dipati Ukur 19,7007,Prudential,6004,Pneumonia
+1028,31-10-17,2008,Kawaca Sihombing,4006,VIP,3016,Jelita Marpaung,17,Perempuan,01-05-00,Jl Kopo 519,7002,Tunai,6006,Gagal ginjal
+1029,25-11-17,2013,Sari Budiyanto,4007,VVIP,3050,Yoga Prasetyo,13,Laki-laki,17-02-04,Jl Jend Sudirman 756,7004,Kredit,6009,Stroke
+1030,07-12-17,2006,Tirta Hidayanto,4006,VIP,3012,Putri Sudiati,43,Perempuan,05-01-74,Jl Hegarmanah Tgh 43,7004,Kredit,6003,Gagal jantung
+1031,12-12-17,2015,Jayeng Pratama,4009,HCU-RIK,3053,Elvina Hutapea,54,Perempuan,02-02-63,Jl Raya Paseh 140,7006,AXA Mandiri,6005,Septisemia
+1032,13-12-17,2012,Ikhsan Mardhiyah,4002,SW,3063,Lintang Hasanah,30,Perempuan,16-02-87,Jl Lengkong Kecil 86,7003,Debit,6006,Gagal ginjal
+1033,23-12-17,2006,Tirta Hidayanto,4003,III,3009,Vicky Mustofa,27,Laki-laki,23-07-90,Jl Wastukencana 15,7005,BPJS,6003,Gagal jantung
+1034,25-12-17,2016,Anom Riyanti,4008,Suite,3042,Julia Melani,38,Perempuan,14-11-79,Jl Reog VI 17,7007,Prudential,6008,Tuberkulosis (TBC)
+1035,04-01-18,2022,Manah Gunarto,4006,VIP,3017,Kania Simbolon,61,Perempuan,29-04-57,Jl Terusan Buahbatu,7003,Debit,6003,Gagal jantung
+1036,07-01-18,2014,Winda Najmudin,4009,HCU-RIK,3020,Gaduh Hartati,45,Laki-laki,19-02-73,Jl Babakan Tarogong 244 B,7004,Kredit,6005,Septisemia
+1037,22-01-18,2010,Vivi Hidayat,4009,HCU-RIK,3013,Nyoman Hutasoit,29,Perempuan,25-11-89,Jl Griya Raya 1,7002,Tunai,6009,Stroke
+1038,02-02-18,2007,Estiawan Namaga,4002,SW,3006,Zalindra Prastuti,25,Perempuan,24-03-93,Jl Jend A Yani 262 RT 02/02,7005,BPJS,6007,Anemia
+1039,10-02-18,2022,Manah Gunarto,4002,SW,3074,Titin Pudjiastuti,59,Perempuan,05-03-59,Jl Dr Rum 7,7004,Kredit,6008,Tuberkulosis (TBC)
+1040,14-02-18,2008,Kawaca Sihombing,4002,SW,3007,Karma Hastuti,44,Perempuan,08-02-74,Jl Hegarmanah Tgh 43,7005,BPJS,6009,Stroke
+1041,14-02-18,2022,Manah Gunarto,4004,II,3057,Lurhur Kusmawati,27,Laki-laki,02-11-91,Jl Cihampelas 161,7004,Kredit,6004,Pneumonia
+1042,04-03-18,2016,Anom Riyanti,4004,II,3089,Kasim Handayani,24,Laki-laki,28-07-94,Jl Soekarno Hatta 495,7004,Kredit,6005,Septisemia
+1043,14-03-18,2019,Tania Ramadan,4007,VVIP,3056,Almira Fujiati,41,Perempuan,13-02-77,Jl Sebelas April,7003,Debit,6006,Gagal ginjal
+1044,15-03-18,2011,Saka Mangunsong,4010,Intermediate Care-Isolasi,3066,Darman Puspita,59,Perempuan,27-06-59,Jl Buahdua RT 03/01,7004,Kredit,6006,Gagal ginjal
+1045,29-03-18,2009,Cengkir Suartini,4009,HCU-RIK,3094,Dian Lestari,37,Perempuan,18-04-81,Jl Jend Sudirman 756,7002,Tunai,6002,Diare dan muntaber
+1046,30-03-18,2003,Luthfi Setiawan,4007,VVIP,3004,Kunthara Siregar,32,Laki-laki,17-07-86,Jl Hegarmanah Tgh 43,7006,AXA Mandiri,6002,Diare dan muntaber
+1047,12-05-18,2021,Aris Palastri,4010,Intermediate Care-Isolasi,3077,Ratna Purnawati,54,Perempuan,14-10-64,Jl Sukarno Hatta 147,7002,Tunai,6006,Gagal ginjal
+1048,12-06-18,2022,Manah Gunarto,4006,VIP,3073,Tira Salahudin,54,Perempuan,21-02-64,Jl Dano Lama 33,7004,Kredit,6004,Pneumonia
+1049,18-06-18,2021,Aris Palastri,4005,I,3045,Yessi Puspita,61,Perempuan,21-01-57,Jl Soekarno Hatta 495,7005,BPJS,6006,Gagal ginjal
+1050,22-06-18,2016,Anom Riyanti,4010,Intermediate Care-Isolasi,3034,Elvina Hakim,33,Perempuan,13-03-85,Jl Tampomas 8,7007,Prudential,6002,Diare dan muntaber
+1051,06-07-18,2007,Estiawan Namaga,4003,III,3100,Kariman Melani,40,Perempuan,29-06-78,Jl Sebelas April,7004,Kredit,6007,Anemia
+1052,09-07-18,2011,Saka Mangunsong,4011,Intensive Care,3064,Hasna Mayasari,22,Perempuan,15-12-96,Jl Jend A Yani 269 Pav,7007,Prudential,6006,Gagal ginjal
+1053,10-08-18,2015,Jayeng Pratama,4002,SW,3087,Ella Prasetya,15,Perempuan,04-11-03,Jl Ujungjaya,7004,Kredit,6007,Anemia
+1054,14-08-18,2020,Nadine Marpaung,4010,Intermediate Care-Isolasi,3090,Mala Melani,53,Perempuan,26-01-65,Jl Dr Saleh 1,7002,Tunai,6009,Stroke
+1055,25-08-18,2020,Nadine Marpaung,4010,Intermediate Care-Isolasi,3079,Agus Prasetyo,42,Laki-laki,11-11-76,Jl Lodaya 20,7003,Debit,6002,Diare dan muntaber
+1056,07-09-18,2017,Maman Natsir,4002,SW,3080,Daliono Palastri,53,Laki-laki,27-08-65,Jl Laks L RE Martadinata 120,7004,Kredit,6006,Gagal ginjal
+1057,18-09-18,2023,Cawuk Wijaya,4004,II,3044,Hasna Haryanti,55,Perempuan,11-09-63,Jl Kalipah Apo 66,7005,BPJS,6008,Tuberkulosis (TBC)
+1058,22-09-18,2007,Estiawan Namaga,4005,I,3072,Farhunnisa Prastuti,45,Perempuan,19-08-73,Jl Reog VI 17,7002,Tunai,6002,Diare dan muntaber
+1059,04-10-18,2017,Maman Natsir,4006,VIP,3022,Elisa Narpati,54,Perempuan,25-03-64,Jl Terusan Buahbatu,7006,AXA Mandiri,6003,Gagal jantung
+1060,05-10-18,2018,Jasmani Narpati,4010,Intermediate Care-Isolasi,3037,Balamantri Laksita,51,Perempuan,05-01-67,Jl Sumatra 2,7004,Kredit,6003,Gagal jantung
+1061,06-10-18,2021,Aris Palastri,4011,Intensive Care,3058,Gaiman Firmansyah,46,Laki-laki,07-11-72,Jl Suka Bakti II 47 RT 08/03,7007,Prudential,6003,Gagal jantung
+1062,07-10-18,2010,Vivi Hidayat,4003,III,3010,Labuh Yuliarti,56,Perempuan,05-11-62,Jl Tubagus Ismail 10,7003,Debit,6009,Stroke
+1063,07-10-18,2024,Asirwanda Wijayanti,4011,Intensive Care,3076,Karsa Yuniar,28,Laki-laki,12-12-90,Jl Ir H Juanda 250,7007,Prudential,6007,Anemia
+1064,16-10-18,2003,Luthfi Setiawan,4009,HCU-RIK,3098,Belinda Sihombing,60,Perempuan,01-11-58,Jl Tanjungkerta 1,7002,Tunai,6003,Gagal jantung
+1065,27-10-18,2011,Saka Mangunsong,4007,VVIP,3081,Gamani Puspasari,23,Perempuan,04-10-95,Jl Sumatra 2,7003,Debit,6005,Septisemia
+1066,19-11-18,2010,Vivi Hidayat,4003,III,3047,Opan Haryanto,42,Laki-laki,25-06-76,Jl Abd Rahman 121,7007,Prudential,6004,Pneumonia
+1067,07-12-18,2005,Lukita Maryati,4005,I,3039,Ganep Saragih,47,Laki-laki,12-09-71,Jl Dungus Cariang,7006,AXA Mandiri,6007,Anemia
+1068,08-01-19,2023,Cawuk Wijaya,4006,VIP,3003,Balijan Putra,22,Laki-laki,27-07-97,Jl Yohanes 103-E,7003,Debit,6009,Stroke
+1069,08-01-19,2015,Jayeng Pratama,4002,SW,3088,Sabar Uyainah,28,Perempuan,26-07-91,Jl Kalipah Apo 66,7006,AXA Mandiri,6007,Anemia
+1070,10-01-19,2003,Luthfi Setiawan,4009,HCU-RIK,3051,Darmaji Handayani,62,Laki-laki,04-10-57,Jl Cancer 1,7003,Debit,6009,Stroke
+1071,11-01-19,2024,Asirwanda Wijayanti,4003,III,3008,Eli Wulandari,60,Perempuan,08-06-59,Jl Hegarmanah Tgh 43,7003,Debit,6004,Pneumonia
+1072,16-01-19,2021,Aris Palastri,4010,Intermediate Care-Isolasi,3101,Gilang Hariyah,62,Laki-laki,13-09-57,Jl Cihampelas 161,7006,AXA Mandiri,6002,Diare dan muntaber
+1073,17-01-19,2013,Sari Budiyanto,4008,Suite,3099,Dono Permata,51,Perempuan,29-05-68,Jl Gegerkalong Hilir 12,7003,Debit,6009,Stroke
+1074,18-01-19,2005,Lukita Maryati,4007,VVIP,3043,Uchita Saefullah,38,Laki-laki,08-06-81,Jl Ujungjaya,7002,Tunai,6008,Tuberkulosis (TBC)
+1075,25-01-19,2012,Ikhsan Mardhiyah,4003,III,3005,Artawan Rahayu,53,Laki-laki,09-06-66,Jl Samoja 17,7005,BPJS,6009,Stroke
+1076,31-01-19,2006,Tirta Hidayanto,4007,VVIP,3027,Maria Pudjiastuti,27,Perempuan,28-02-92,Jl Windu 16,7007,Prudential,6009,Stroke
+1077,04-02-19,2011,Saka Mangunsong,4003,III,3092,Lembah Yuniar,51,Laki-laki,31-07-68,Jl Ranggamalela,7002,Tunai,6005,Septisemia
+1078,07-02-19,2015,Jayeng Pratama,4005,I,3041,Novi Sihotang,32,Perempuan,08-06-87,Jl Prabugajah Agung Bl C/1,7003,Debit,6005,Septisemia
+1079,09-02-19,2009,Cengkir Suartini,4008,Suite,3086,Eva Iswahyudi,59,Perempuan,15-10-60,Jl Reog VI 17,7005,BPJS,6006,Gagal ginjal
+1080,11-02-19,2023,Cawuk Wijaya,4002,SW,3054,Prasetyo Oktaviani,59,Laki-laki,26-10-60,Jl Tanjungkerta 1,7005,BPJS,6006,Gagal ginjal
+1081,11-02-19,2017,Maman Natsir,4010,Intermediate Care-Isolasi,3097,Elma Rajasa,21,Perempuan,03-02-98,Jl Raya Paseh 140,7004,Kredit,6007,Anemia
+1082,14-02-19,2023,Cawuk Wijaya,4006,VIP,3049,Daruna Kusumo,35,Laki-laki,05-12-84,Jl Ambon 2,7007,Prudential,6007,Anemia
+1083,15-02-19,2019,Tania Ramadan,4011,Intensive Care,3019,Cinthia Wahyudin,32,Perempuan,31-12-87,Jl Samoja 17,7004,Kredit,6003,Gagal jantung
+1084,25-02-19,2017,Maman Natsir,4007,VVIP,3040,Umar Laksmiwati,37,Laki-laki,16-12-82,Jl Cipamokolan 1,7002,Tunai,6004,Pneumonia
+1085,25-02-19,2002,Gaman Rahayu,4002,SW,3095,Julia Ramadan,28,Perempuan,03-10-91,Jl Cancer 1,7005,BPJS,6002,Diare dan muntaber
+1086,28-02-19,2016,Anom Riyanti,4004,II,3096,Hilda Thamrin,40,Perempuan,09-07-79,Jl Jend A Yani 269 Pav,7005,BPJS,6006,Gagal ginjal
+1087,02-03-19,2019,Tania Ramadan,4008,Suite,3065,Tina Januar,58,Perempuan,23-02-61,Jl Buahdua RT 03/01,7003,Debit,6007,Anemia
+1088,03-03-19,2010,Vivi Hidayat,4004,II,3093,Najwa Rahayu,36,Perempuan,07-04-83,Jl Ambon 2,7005,BPJS,6009,Stroke
+1089,07-03-19,2022,Manah Gunarto,4004,II,3033,Kani Kuswandari,54,Perempuan,08-07-65,Jl Sukarno Hatta 147,7003,Debit,6009,Stroke
+1090,08-03-19,2006,Tirta Hidayanto,4008,Suite,3085,Rosman Marbun,63,Perempuan,12-11-56,Jl Prabugajah Agung Bl C/1,7003,Debit,6006,Gagal ginjal
+1091,21-03-19,2017,Maman Natsir,4006,VIP,3078,Fathonah Halimah,43,Perempuan,05-08-76,Jl Tampomas 8,7007,Prudential,6002,Diare dan muntaber
+1092,28-03-19,2013,Sari Budiyanto,4010,Intermediate Care-Isolasi,3023,Hana Yuliarti,37,Perempuan,07-06-82,Jl Tubagus Ismail 10,7003,Debit,6005,Septisemia
+1093,01-04-19,2016,Anom Riyanti,4010,Intermediate Care-Isolasi,3026,Candrakanta Thamrin,62,Laki-laki,04-09-57,Jl Jend A Yani 269 Pav,7003,Debit,6002,Diare dan muntaber
+1094,16-04-19,2017,Maman Natsir,4008,Suite,3052,Malik Purnawati,35,Laki-laki,03-05-84,Jl Jend A Yani 269 Pav,7003,Debit,6005,Septisemia
+1095,18-04-19,2007,Estiawan Namaga,4006,VIP,3028,Cahyo Mustofa,46,Laki-laki,31-01-73,Jl Reog VI 17,7006,AXA Mandiri,6002,Diare dan muntaber
+1096,30-04-19,2018,Jasmani Narpati,4010,Intermediate Care-Isolasi,3011,Oliva Melani,28,Perempuan,05-10-91,Jl Terusan Buahbatu,7004,Kredit,6005,Septisemia
+1097,30-04-19,2009,Cengkir Suartini,4011,Intensive Care,3046,Bella Habibi,55,Perempuan,23-03-64,Jl Dr Saleh 1,7004,Kredit,6005,Septisemia
+1098,03-05-19,2020,Nadine Marpaung,4003,III,3068,Queen Nurdiyanti,18,Perempuan,16-11-01,Jl Geusan Ulun 116,7005,BPJS,6003,Gagal jantung
+1099,06-05-19,2022,Manah Gunarto,4008,Suite,3084,Zamira Januar,35,Perempuan,09-04-84,Jl Cipamokolan 1,7002,Tunai,6003,Gagal jantung
+1100,12-05-19,2013,Sari Budiyanto,4008,Suite,3083,Karman Nuraini,42,Perempuan,18-11-77,Jl Dungus Cariang,7005,BPJS,6007,Anemia
+1101,21-05-19,2019,Tania Ramadan,4007,VVIP,3031,Ajeng Safitri,54,Perempuan,30-06-65,Jl Terusan Jakarta 109 B,7006,AXA Mandiri,6008,Tuberkulosis (TBC)

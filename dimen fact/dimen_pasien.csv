@@ -1,0 +1,101 @@
+id_pasien,nama_pasien,umur,jeniskelamin,tgl_lahir,alamat
+3002,Chelsea Maryati,19,Perempuan,17/08/1998,Jl Wastukencana 4
+3003,Balijan Putra,22,Laki-laki,27/07/1997,Jl Yohanes 103-E
+3004,Kunthara Siregar,32,Laki-laki,17/07/1986,Jl Hegarmanah Tgh 43
+3005,Artawan Rahayu,53,Laki-laki,09/06/1966,Jl Samoja 17
+3006,Zalindra Prastuti,25,Perempuan,24/03/1993,Jl Jend A Yani 262 RT 02/02
+3007,Karma Hastuti,44,Perempuan,08/02/1974,Jl Hegarmanah Tgh 43
+3008,Eli Wulandari,60,Perempuan,08/06/1959,Jl Hegarmanah Tgh 43
+3009,Vicky Mustofa,27,Laki-laki,23/07/1990,Jl Wastukencana 15
+3010,Labuh Yuliarti,56,Perempuan,05/11/1962,Jl Tubagus Ismail 10
+3011,Oliva Melani,28,Perempuan,05/10/1991,Jl Terusan Buahbatu
+3012,Putri Sudiati,43,Perempuan,05/01/1974,Jl Hegarmanah Tgh 43
+3013,Nyoman Hutasoit,29,Perempuan,25/11/1989,Jl Griya Raya 1
+3014,Martana Zulkarnain,57,Perempuan,08/05/1960,Jl Jend A Yani 269 Pav
+3015,Damu Halimah,37,Perempuan,20/06/1980,Jl Wastukencana 15
+3016,Jelita Marpaung,17,Perempuan,01/05/2000,Jl Kopo 519
+3017,Kania Simbolon,61,Perempuan,29/04/1957,Jl Terusan Buahbatu
+3018,Kemal Natsir,29,Laki-laki,30/05/1988,Jl Wastukencana 4
+3019,Cinthia Wahyudin,32,Perempuan,31/12/1987,Jl Samoja 17
+3020,Gaduh Hartati,45,Laki-laki,19/02/1973,Jl Babakan Tarogong 244 B
+3021,Jasmin Andriani,40,Perempuan,29/10/1977,Jl Wastukencana 15
+3022,Elisa Narpati,54,Perempuan,25/03/1964,Jl Terusan Buahbatu
+3023,Hana Yuliarti,37,Perempuan,07/06/1982,Jl Tubagus Ismail 10
+3024,Dasa Nababan,36,Laki-laki,04/12/1981,Jl Griya Raya 1
+3025,Paris Saputra,57,Laki-laki,11/11/1960,Jl Kopo 519
+3026,Candrakanta Thamrin,62,Laki-laki,04/09/1957,Jl Jend A Yani 269 Pav
+3027,Maria Pudjiastuti,27,Perempuan,28/02/1992,Jl Windu 16
+3028,Cahyo Mustofa,46,Laki-laki,31/01/1973,Jl Reog VI 17
+3029,Lembah Andriani,15,Perempuan,27/10/2002,Jl Dano Lama 33
+3030,Indah Prayoga,21,Perempuan,27/12/1996,Jl Dr Rum 7
+3031,Ajeng Safitri,54,Perempuan,30/06/1965,Jl Terusan Jakarta 109 B
+3032,Kayla Samosir,21,Perempuan,30/08/1996,Jl Ir H Juanda 250
+3033,Kani Kuswandari,54,Perempuan,08/07/1965,Jl Sukarno Hatta 147
+3034,Elvina Hakim,33,Perempuan,13/03/1985,Jl Tampomas 8
+3035,Nadia Farida,47,Perempuan,20/09/1970,Jl Lodaya 20
+3036,Siti Widiastuti,29,Perempuan,30/07/1988,Jl Laks L RE Martadinata 120
+3037,Balamantri Laksita,51,Perempuan,05/01/1967,Jl Sumatra 2
+3038,Mursita Nugroho,32,Perempuan,25/06/1985,Jl Lengkong Kecil 28
+3039,Ganep Saragih,47,Laki-laki,12/09/1971,Jl Dungus Cariang
+3040,Umar Laksmiwati,37,Laki-laki,16/12/1982,Jl Cipamokolan 1
+3041,Novi Sihotang,32,Perempuan,08/06/1987,Jl Prabugajah Agung Bl C/1
+3042,Julia Melani,38,Perempuan,14/11/1979,Jl Reog VI 17
+3043,Uchita Saefullah,38,Laki-laki,08/06/1981,Jl Ujungjaya
+3044,Hasna Haryanti,55,Perempuan,11/09/1963,Jl Kalipah Apo 66
+3045,Yessi Puspita,61,Perempuan,21/01/1957,Jl Soekarno Hatta 495
+3046,Bella Habibi,55,Perempuan,23/03/1964,Jl Dr Saleh 1
+3047,Opan Haryanto,42,Laki-laki,25/06/1976,Jl Abd Rahman 121
+3048,Juli Wijaya,33,Laki-laki,24/03/1984,Jl Ranggamalela
+3049,Daruna Kusumo,35,Laki-laki,05/12/1984,Jl Ambon 2
+3050,Yoga Prasetyo,13,Laki-laki,17/02/2004,Jl Jend Sudirman 756
+3051,Darmaji Handayani,62,Laki-laki,04/10/1957,Jl Cancer 1
+3052,Malik Purnawati,35,Laki-laki,03/05/1984,Jl Jend A Yani 269 Pav
+3053,Elvina Hutapea,54,Perempuan,02/02/1963,Jl Raya Paseh 140
+3054,Prasetyo Oktaviani,59,Laki-laki,26/10/1960,Jl Tanjungkerta 1
+3055,Jefri Sihombing,61,Laki-laki,16/11/1956,Jl Gegerkalong Hilir 12
+3056,Almira Fujiati,41,Perempuan,13/02/1977,Jl Sebelas April
+3057,Lurhur Kusmawati,27,Laki-laki,02/11/1991,Jl Cihampelas 161
+3058,Gaiman Firmansyah,46,Laki-laki,07/11/1972,Jl Suka Bakti II 47 RT 08/03
+3059,Alambana Puspita,55,Perempuan,14/07/1962,Jl Raya Situraja 180
+3060,Adiarja Maryadi,17,Laki-laki,09/04/2000,Jl Sukajadi 141
+3061,Sabrina Novitasari,42,Perempuan,17/07/1975,Jl Cijati RT 02/05
+3062,Ajeng Prabowo,40,Perempuan,25/05/1977,Jl Sukarno Hatta 466
+3063,Lintang Hasanah,30,Perempuan,16/02/1987,Jl Lengkong Kecil 86
+3064,Hasna Mayasari,22,Perempuan,15/12/1996,Jl Jend A Yani 269 Pav
+3065,Tina Januar,58,Perempuan,23/02/1961,Jl Buahdua RT 03/01
+3066,Darman Puspita,59,Perempuan,27/06/1959,Jl Buahdua RT 03/01
+3067,Wahyu Farida,45,Laki-laki,08/03/1972,Jl Jend A Yani 262 RT 02/02
+3068,Queen Nurdiyanti,18,Perempuan,16/11/2001,Jl Geusan Ulun 116
+3069,Maria Handayani,19,Perempuan,13/01/1998,Jl Dungus Cariang
+3070,Viktor Hutapea,24,Laki-laki,26/02/1993,Jl Jend Gatot Subroto 289
+3071,Mila Wacana,52,Perempuan,12/05/1965,Jl Dipati Ukur 19
+3072,Farhunnisa Prastuti,45,Perempuan,19/08/1973,Jl Reog VI 17
+3073,Tira Salahudin,54,Perempuan,21/02/1964,Jl Dano Lama 33
+3074,Titin Pudjiastuti,59,Perempuan,05/03/1959,Jl Dr Rum 7
+3075,Edward Astuti,48,Laki-laki,26/07/1969,Jl Terusan Jakarta 109 B
+3076,Karsa Yuniar,28,Laki-laki,12/12/1990,Jl Ir H Juanda 250
+3077,Ratna Purnawati,54,Perempuan,14/10/1964,Jl Sukarno Hatta 147
+3078,Fathonah Halimah,43,Perempuan,05/08/1976,Jl Tampomas 8
+3079,Agus Prasetyo,42,Laki-laki,11/11/1976,Jl Lodaya 20
+3080,Daliono Palastri,53,Laki-laki,27/08/1965,Jl Laks L RE Martadinata 120
+3081,Gamani Puspasari,23,Perempuan,04/10/1995,Jl Sumatra 2
+3082,Ibrani Budiman,43,Laki-laki,13/03/1974,Jl Lengkong Kecil 28
+3083,Karman Nuraini,42,Perempuan,18/11/1977,Jl Dungus Cariang
+3084,Zamira Januar,35,Perempuan,09/04/1984,Jl Cipamokolan 1
+3085,Rosman Marbun,63,Perempuan,12/11/1956,Jl Prabugajah Agung Bl C/1
+3086,Eva Iswahyudi,59,Perempuan,15/10/1960,Jl Reog VI 17
+3087,Ella Prasetya,15,Perempuan,04/11/2003,Jl Ujungjaya
+3088,Sabar Uyainah,28,Perempuan,26/07/1991,Jl Kalipah Apo 66
+3089,Kasim Handayani,24,Laki-laki,28/07/1994,Jl Soekarno Hatta 495
+3090,Mala Melani,53,Perempuan,26/01/1965,Jl Dr Saleh 1
+3091,Zulaikha Saptono,44,Perempuan,08/07/1973,Jl Abd Rahman 121
+3092,Lembah Yuniar,51,Laki-laki,31/07/1968,Jl Ranggamalela
+3093,Najwa Rahayu,36,Perempuan,07/04/1983,Jl Ambon 2
+3094,Dian Lestari,37,Perempuan,18/04/1981,Jl Jend Sudirman 756
+3095,Julia Ramadan,28,Perempuan,03/10/1991,Jl Cancer 1
+3096,Hilda Thamrin,40,Perempuan,09/07/1979,Jl Jend A Yani 269 Pav
+3097,Elma Rajasa,21,Perempuan,03/02/1998,Jl Raya Paseh 140
+3098,Belinda Sihombing,60,Perempuan,01/11/1958,Jl Tanjungkerta 1
+3099,Dono Permata,51,Perempuan,29/05/1968,Jl Gegerkalong Hilir 12
+3100,Kariman Melani,40,Perempuan,29/06/1978,Jl Sebelas April
+3101,Gilang Hariyah,62,Laki-laki,13/09/1957,Jl Cihampelas 161

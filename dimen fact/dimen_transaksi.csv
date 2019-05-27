@@ -1,0 +1,7 @@
+id_transaksi,cara_bayar
+7002,Tunai
+7003,Debit
+7004,Kredit
+7005,BPJS
+7006,AXA Mandiri
+7007,Prudential
